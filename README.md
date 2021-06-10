@@ -48,7 +48,7 @@
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-2/748683930559053874.png">
   <br>
- leloupalpha2@gmail.com@gmail.com
+ leloupalpha2@gmail.com
 </p>
 
 
