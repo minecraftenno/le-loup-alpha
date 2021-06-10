@@ -6,7 +6,7 @@
   <br>
   <br>
   <br>
-  <img src="https://cdn.discordapp.com/avatars/837755774851350569/6e168b7490d2141eb4daa4b3dd506793.png>
+  <img src="https://cdn.discordapp.com/avatars/837755774851350569/6e168b7490d2141eb4daa4b3dd506793.png">
   <br>
   <br>
   <br>
