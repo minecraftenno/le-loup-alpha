@@ -48,7 +48,7 @@
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-2/748683930559053874.png">
   <br>
-  billythegoat356356@gmail.com
+ leloupalpha2@gmail.com@gmail.com
 </p>
 
 
@@ -56,7 +56,7 @@
 ### <p align="center">⚙️ &nbsp;Mes Statistiques</p>
 <br>
 <p align="center">
-<a href="https://github.com/billythegoat356">
+<a href="https://github.com/le-loup-alpha">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=le-loup-alpha&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=le-loup-alpha&layout=compact&langs_count=8&theme=react&locale=fr"/>
 </a>
