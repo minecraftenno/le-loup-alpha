@@ -22,10 +22,10 @@
 ### <p align="center">🏆 &nbsp;Mes Compétences</p>
 <br>
 <p align="center">
-  🐍 J'apprends le Python depuis 4 mois 🐍
+  🐍 J'apprends le Python depuis 3 mois 🐍
   <br>
   <br>
-  🔐 J'apprends la Cybersécurité pour pouvoir me protéger sur Internet(ou pas) 🔐
+  🔐 J'apprends la Cybersécurité pour pouvoir me protéger sur Internet(ou pas ;D ) 🔐
   <br>
   <br>
 </p>
@@ -40,6 +40,7 @@
   <br>
   🔐 Progresser en Cybersécurité 🔐
   <br>
+  💥hacker un max de gens💥
   <br>
 </p>
 
